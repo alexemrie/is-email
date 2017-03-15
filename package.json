@@ -1,0 +1,26 @@
+{
+  "name": "is-email",
+  "version": "1.0.0",
+  "description": "tests a string to see if it is a valid email address",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "string",
+    "email regex",
+    "regex",
+    "emails",
+    "email",
+    "valid",
+    "validation"
+  ],
+  "author": "Alex Emrie",
+  "repository": {
+    "url": "http://www.githugz.com/projects/npm/is-email"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
