@@ -29,4 +29,4 @@ isEmail("email");                   // false
 Support
 -----
 
-Find this package useful? Support it on [GitHugz](http://www.githugz.com/projects/npm/find-emails-in-string)!
+Find this package useful? Support it on [GitHugz](http://www.githugz.com/projects/npm/is-email)!
